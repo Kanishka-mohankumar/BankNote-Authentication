@@ -68,7 +68,7 @@ All models were implemented from scratch using NumPy and basic Python — **no a
    pip install numpy pandas matplotlib
    ```
 
-3. **Run the main script:**
+3. **Run the main script**
  
 
 4. **Check the terminal output and generated plots for evaluation metrics.**
