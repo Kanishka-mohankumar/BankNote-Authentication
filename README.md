@@ -115,8 +115,16 @@ The script includes:
 ---
 
 ## 🪪 License
+**© 2025 Kanishka Mohankumar – All Rights Reserved**  
+This project is intended solely for **personal viewing**.  
 
-© 2025 – All Rights Reserved.
+You are **not permitted** to:  
+- Reuse or republish the content or code  
+- Modify, copy, or redistribute this work  
+- Use it for commercial or educational distribution  
+
+🔒 For inquiries or permission, contact [kanishkamohan223@gmail.com](mailto:kanishkamohan223@gmail.com)
+
 
 ---
 
