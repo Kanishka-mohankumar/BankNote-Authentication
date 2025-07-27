@@ -59,8 +59,8 @@ All models were implemented from scratch using NumPy and basic Python — **no a
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/kanishka-mohankumar/Banknote-Authentication-ML.git
-   cd Banknote-Authentication-ML
+   git clone https://github.com/kanishka-mohankumar/BankNote-Authentication-ML.git
+   cd BankNote-Authentication-ML
    ```
 
 2. **Install required dependencies:**
@@ -69,9 +69,7 @@ All models were implemented from scratch using NumPy and basic Python — **no a
    ```
 
 3. **Run the main script:**
-   ```bash
-   python banknote_authentication.py
-   ```
+ 
 
 4. **Check the terminal output and generated plots for evaluation metrics.**
 
